@@ -1,0 +1,8 @@
+{
+  "source": "kagglehub:pavansubhasht/ibm-hr-analytics-attrition-dataset",
+  "cached_csv": "C:\\Users\\binia\\.cache\\kagglehub\\datasets\\pavansubhasht\\ibm-hr-analytics-attrition-dataset\\versions\\1\\WA_Fn-UseC_-HR-Employee-Attrition.csv",
+  "cache_sha256": "a5c31e38bd7fafc9bc333884eb181b06b41b8e5e488e8f7ccb27199fb3be7659",
+  "local_path": "C:\\Users\\binia\\OneDrive\\Bini\\Education - Professional Development\\Springboard\\git\\Mini Projects\\Employee Attrition Prediction\\data\\raw\\employee_attrition_raw.csv",
+  "local_sha256": "a5c31e38bd7fafc9bc333884eb181b06b41b8e5e488e8f7ccb27199fb3be7659",
+  "fetched_at": "2025-08-27 16:39:01"
+}

@@ -1,0 +1,58 @@
+{
+    "model_name": "XGBoost_Attrition",
+    "library": "xgboost",
+    "version": "XGBClassifier",
+    "timestamp": "2025-08-27T21:09:59.163790",
+    "n_train": 1176,
+    "n_test": 294,
+    "features_numeric_robust": [
+        "MonthlyIncome",
+        "TotalWorkingYears",
+        "YearsAtCompany"
+    ],
+    "features_numeric_standard": [
+        "Age",
+        "DailyRate",
+        "DistanceFromHome",
+        "Education",
+        "EmployeeNumber",
+        "EnvironmentSatisfaction",
+        "HourlyRate",
+        "JobInvolvement",
+        "JobLevel",
+        "JobSatisfaction",
+        "MonthlyRate",
+        "NumCompaniesWorked",
+        "PercentSalaryHike",
+        "RelationshipSatisfaction",
+        "StockOptionLevel",
+        "TrainingTimesLastYear",
+        "WorkLifeBalance",
+        "YearsInCurrentRole",
+        "YearsSinceLastPromotion",
+        "YearsWithCurrManager"
+    ],
+    "features_categorical": [
+        "BusinessTravel",
+        "Department",
+        "EducationField",
+        "Gender",
+        "JobRole",
+        "MaritalStatus",
+        "OverTime"
+    ],
+    "class_distribution": {
+        "train_No": 986,
+        "train_Yes": 190,
+        "test_No": 247,
+        "test_Yes": 47
+    },
+    "metrics": {
+        "rf_brier": 0.11236657003387095,
+        "rf_logloss": 0.3686739801411202,
+        "xgb_brier": 0.11043840820725567,
+        "xgb_logloss": 0.39524072169614205,
+        "xgb_auc": 0.7684555086570765
+    },
+    "notes": "Baseline comparison of LogReg, RF, and XGB. XGB chosen for tuning in Notebook 3 due to superior recall and ranking ability."
+}
