@@ -1,0 +1,11 @@
+Employee_Index,Predicted_Risk,Top_Driver_1,Top_Driver_2,Top_Driver_3
+92,1.0,robust__MonthlyIncome (1.560),standard__JobInvolvement (1.462),cat__OverTime_No (1.074)
+81,1.0,cat__OverTime_No (1.329),standard__NumCompaniesWorked (1.244),robust__MonthlyIncome (1.131)
+200,1.0,cat__OverTime_No (1.228),standard__YearsWithCurrManager (0.950),standard__Age (0.751)
+214,1.0,cat__OverTime_No (1.280),standard__EnvironmentSatisfaction (0.904),cat__BusinessTravel_Travel_Frequently (0.854)
+276,0.8410256505012512,cat__OverTime_No (1.161),robust__MonthlyIncome (1.141),cat__JobRole_Research Scientist (-0.886)
+223,0.8090909123420715,robust__MonthlyIncome (1.424),standard__YearsWithCurrManager (0.966),cat__OverTime_No (-0.809)
+35,0.7361206889152527,standard__RelationshipSatisfaction (0.951),cat__OverTime_No (0.883),standard__YearsInCurrentRole (-0.834)
+251,0.6485098600387573,standard__JobInvolvement (1.249),standard__NumCompaniesWorked (1.061),standard__EnvironmentSatisfaction (1.051)
+256,0.6158432602882385,cat__OverTime_No (1.040),standard__DistanceFromHome (0.822),standard__YearsWithCurrManager (0.748)
+287,0.536783230304718,standard__NumCompaniesWorked (-1.228),cat__OverTime_No (0.918),standard__EnvironmentSatisfaction (0.898)

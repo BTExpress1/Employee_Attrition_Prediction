@@ -54,5 +54,14 @@
         "xgb_logloss": 0.39524072169614205,
         "xgb_auc": 0.7684555086570765
     },
-    "notes": "Baseline comparison of LogReg, RF, and XGB. XGB chosen for tuning in Notebook 3 due to superior recall and ranking ability."
+    "notes": "Baseline comparison of LogReg, RF, and XGB. XGB chosen for tuning in Notebook 3 due to superior recall and ranking ability.",
+    "final_model": "XGBClassifier (calibrated isotonic)",
+    "final_test_auc": 0.7908519252304247,
+    "final_test_logloss": 0.34823627806729723,
+    "final_brier": 0.1049418058471414,
+    "final_timestamp": "2025-08-27T22:05:04.284490",
+    "threshold_recommendation": {
+        "primary": 0.3,
+        "fallback": 0.45
+    }
 }
