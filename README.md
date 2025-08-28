@@ -2,15 +2,15 @@
 
 
 
-\[!\[Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)  
+\[!\[Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 
-\[!\[scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E.svg?logo=scikit-learn\&logoColor=white)](https://scikit-learn.org/stable/)  
+\[!\[scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E.svg?logo=scikit-learn\&logoColor=white)](https://scikit-learn.org/stable/)
 
-\[!\[XGBoost](https://img.shields.io/badge/XGBoost-1.7+-00599C.svg)](https://xgboost.readthedocs.io/)  
+\[!\[XGBoost](https://img.shields.io/badge/XGBoost-1.7+-00599C.svg)](https://xgboost.readthedocs.io/)
 
-\[!\[SHAP](https://img.shields.io/badge/SHAP-0.44+-red.svg)](https://shap.readthedocs.io/)  
+\[!\[SHAP](https://img.shields.io/badge/SHAP-0.44+-red.svg)](https://shap.readthedocs.io/)
 
-\[!\[Jupyter](https://img.shields.io/badge/JupyterLab-4.0+-F37626.svg?logo=Jupyter\&logoColor=white)](https://jupyter.org/)  
+\[!\[Jupyter](https://img.shields.io/badge/JupyterLab-4.0+-F37626.svg?logo=Jupyter\&logoColor=white)](https://jupyter.org/)
 
 
 
