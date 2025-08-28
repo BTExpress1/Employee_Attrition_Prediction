@@ -2,7 +2,7 @@
 
 
 
-\[!\[Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
+!\[\[Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 
 \[!\[scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E.svg?logo=scikit-learn\&logoColor=white)](https://scikit-learn.org/stable/)
 
