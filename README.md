@@ -1,22 +1,22 @@
-\# 🧑‍💼 Employee Attrition Risk Prediction
+# 🧑‍💼 Employee Attrition Risk Prediction
 
 
 
-!\[Python](https://img.shields.io/badge/python-3.11-blue)
+[!\[Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/downloads/release/python-3110/)
 
-!\[scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E?logo=scikit-learn\&logoColor=white)
+[!\[scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E?logo=scikit-learn\&logoColor=white)](https://scikit-learn.org/stable/)
 
-!\[XGBoost](https://img.shields.io/badge/XGBoost-1.7+-00599C)
+[!\[XGBoost](https://img.shields.io/badge/XGBoost-1.7+-00599C)](https://xgboost.readthedocs.io/)
 
-!\[SHAP](https://img.shields.io/badge/SHAP-0.44+-red)
+[!\[SHAP](https://img.shields.io/badge/SHAP-0.44+-red)](https://shap.readthedocs.io/)
 
-!\[JupyterLab](https://img.shields.io/badge/JupyterLab-4.0+-F37626?logo=Jupyter\&logoColor=white)
-
-
+[!\[JupyterLab](https://img.shields.io/badge/JupyterLab-4.0+-F37626?logo=Jupyter\&logoColor=white)](https://jupyter.org/)
 
 
 
-\## 📌 Project Overview
+
+
+## 📌 Project Overview
 
 This project predicts the probability of employee attrition using structured HR data.  
 
@@ -24,7 +24,7 @@ The goal is not just to classify employees as “Yes/No attrition,” but to gen
 
 
 
-\- \*\*Dataset:\*\* IBM HR Analytics Employee Attrition dataset (Kaggle)  
+- \*\*Dataset:\*\* IBM HR Analytics Employee Attrition dataset (Kaggle)  
 
 \- \*\*Modeling Approach:\*\* Logistic Regression, Random Forest, and XGBoost were benchmarked.  
 
