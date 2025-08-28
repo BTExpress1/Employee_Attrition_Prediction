@@ -2,15 +2,15 @@
 
 
 
-\[!\[Python](https://img.shields.io/badge/python-3.11-blue)] (https://www.python.org/downloads/release/python-3110/)
+!\[Python](https://img.shields.io/badge/python-3.11-blue)
 
-\[!\[scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E?logo=scikit-learn\&logoColor=white)](https://scikit-learn.org/stable/)
+!\[scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E?logo=scikit-learn\&logoColor=white)
 
-\[!\[XGBoost](https://img.shields.io/badge/XGBoost-1.7+-00599C)](https://xgboost.readthedocs.io/)
+!\[XGBoost](https://img.shields.io/badge/XGBoost-1.7+-00599C)
 
-\[!\[SHAP](https://img.shields.io/badge/SHAP-0.44+-red)](https://shap.readthedocs.io/)
+!\[SHAP](https://img.shields.io/badge/SHAP-0.44+-red)
 
-\[!\[JupyterLab](https://img.shields.io/badge/JupyterLab-4.0+-F37626?logo=Jupyter\&logoColor=white)](https://jupyter.org/)
+!\[JupyterLab](https://img.shields.io/badge/JupyterLab-4.0+-F37626?logo=Jupyter\&logoColor=white)
 
 
 
